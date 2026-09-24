@@ -2,7 +2,7 @@
 
 > **default $0.07; extend $0.07; 4K $0.57** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-efc9ac)** · **[Get an API key](https://go.apimart.ai/k-43bc1e)**
 
 Everything here refers to **veo-3.1** — also written **veo3.1** or **veo 3.1**.
 
